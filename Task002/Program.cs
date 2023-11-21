@@ -1,6 +1,9 @@
 ﻿//Напишите утилиту читающую тестовый файл и выводящую на экран строки содержащие искомое слово.
 
 
+using System;
+using System.IO;
+
 namespace Task002
 {
     class Program

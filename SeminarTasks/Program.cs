@@ -1,4 +1,6 @@
-﻿namespace SeminarTasks
+﻿using System;
+
+namespace SeminarTasks
 {
     internal class Program
     {
